@@ -1,2 +1,1 @@
-# rimoulko.github.io
-Public website
+# Rimoulko website
